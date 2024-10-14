@@ -1,3 +1,6 @@
+![Untitled](https://github.com/user-attachments/assets/6cb3bdd3-7ffe-4624-b42c-bc0974a4f23b)
+
+
 ## THE PREDICTIVE EDGE: STACKING ENSEMBLE FOR SMARTER HR DECISION-MAKING
 
 ## Overview: 
